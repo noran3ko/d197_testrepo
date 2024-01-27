@@ -1,1 +1,2 @@
 wtf is this so dumb?
+just added global name and email. what does this do to local?
